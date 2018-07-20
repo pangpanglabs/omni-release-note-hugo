@@ -1,0 +1,3 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/pangpanglabs/omni-release-note.git
